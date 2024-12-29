@@ -1,0 +1,1 @@
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/appRS232CPortTransmission_autogen/include/../EWIEGA46WW/moc_portmanager.cpp.json

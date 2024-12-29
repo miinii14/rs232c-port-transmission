@@ -1,0 +1,14 @@
+-rootPath
+D:/Projects/RS232CPortTransmission
+-cmake-output
+-output-file
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/qml_imports/appRS232CPortTransmission_build.cmake
+-importPath
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/RS232CPortTransmission
+-importPath
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug
+-importPath
+D:/Programms/Qt/6.8.1/mingw_64/qml
+-qrcFiles
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/qmake_RS232CPortTransmission.qrc
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/appRS232CPortTransmission_raw_qml_0.qrc

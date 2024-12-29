@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RS232CPortTransmission">
+    <file alias="qmldir">D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/RS232CPortTransmission/qmldir</file>
+  </qresource>
+</RCC>
+

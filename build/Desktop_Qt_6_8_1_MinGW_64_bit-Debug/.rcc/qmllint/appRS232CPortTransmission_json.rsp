@@ -1,0 +1,13 @@
+--bare
+-I
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug
+-I
+D:/Programms/Qt/6.8.1/mingw_64/qml
+--resource
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/qmake_RS232CPortTransmission.qrc
+--resource
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/appRS232CPortTransmission_raw_qml_0.qrc
+D:/Projects/RS232CPortTransmission/Main.qml
+D:/Projects/RS232CPortTransmission/SecondWindow.qml
+--json
+D:/Projects/RS232CPortTransmission/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/appRS232CPortTransmission_qmllint.json

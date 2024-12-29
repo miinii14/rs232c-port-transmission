@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/RS232CPortTransmission/">
+    <file alias="Main.qml">D:/Projects/RS232CPortTransmission/Main.qml</file>
+    <file alias="SecondWindow.qml">D:/Projects/RS232CPortTransmission/SecondWindow.qml</file>
+  </qresource>
+</RCC>
+

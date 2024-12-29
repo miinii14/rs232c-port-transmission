@@ -1,0 +1,146 @@
+[
+    {
+        "classes": [
+            {
+                "className": "PortManager",
+                "lineNumber": 9,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "portNumber",
+                                "type": "uint"
+                            },
+                            {
+                                "name": "baudRate",
+                                "type": "uint"
+                            },
+                            {
+                                "name": "parity",
+                                "type": "uint"
+                            },
+                            {
+                                "name": "stopBits",
+                                "type": "uint"
+                            },
+                            {
+                                "name": "byteSize",
+                                "type": "uint"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "openSerialPort",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "writeSerialPort",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "writeSerialPortBinary",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "name": "readSerialPort",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "name": "readSerialPortBinary",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "name": "closeSerialPort",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 6,
+                        "name": "readFromFile",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "name": "readFromBinaryFile",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "name": "openFileDialog",
+                        "returnType": "std::string"
+                    },
+                    {
+                        "access": "public",
+                        "index": 9,
+                        "name": "getInput",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 10,
+                        "name": "getPath",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 11,
+                        "name": "getBuffer",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "index": 12,
+                        "name": "getImageUrl",
+                        "returnType": "QUrl"
+                    },
+                    {
+                        "access": "public",
+                        "index": 13,
+                        "name": "getImageOutputUrl",
+                        "returnType": "QUrl"
+                    },
+                    {
+                        "access": "public",
+                        "index": 14,
+                        "name": "convertToImage",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "string",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 15,
+                        "name": "setInput",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "PortManager",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "portmanager.h",
+        "outputRevision": 68
+    }
+]

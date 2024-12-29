@@ -1,0 +1,6 @@
+module RS232CPortTransmission
+typeinfo appRS232CPortTransmission.qmltypes
+prefer :/qt/qml/RS232CPortTransmission/
+Main 1.0 Main.qml
+SecondWindow 1.0 SecondWindow.qml
+
